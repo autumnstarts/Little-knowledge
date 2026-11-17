@@ -30,7 +30,7 @@ A single `index.html` file (plain HTML, CSS and JavaScript). No frameworks, no b
 
 ## Feedback
 
-Tried it? I'd love to hear how it went: [ujwalpatel489@gmail.com]
+Tried it? I'd love to hear how it went: [ujwalkp11@gmail.com]
 
 ## Copyright
 
